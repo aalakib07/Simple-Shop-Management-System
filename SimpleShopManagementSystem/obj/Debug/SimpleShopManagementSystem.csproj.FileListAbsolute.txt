@@ -1,0 +1,45 @@
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe.config
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Loading.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Properties.Resources.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csproj.GenerateResource.Cache
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Login.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Products.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Dashboard.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Salesman.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Order.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Admin.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe.config
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Admin.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Dashboard.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Loading.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Login.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Order.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Products.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Properties.Resources.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Salesman.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csproj.GenerateResource.Cache
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe.config
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.exe
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\bin\Debug\SimpleShopManagementSystem.pdb
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Admin.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Dashboard.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Loading.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Login.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Order.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Products.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Properties.Resources.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.Salesman.resources
+C:\Users\aalakib07\Documents\SimpleShopManagementSystem - Copy - Copy\SimpleShopManagementSystem\obj\Debug\SimpleShopManagementSystem.csproj.GenerateResource.Cache
